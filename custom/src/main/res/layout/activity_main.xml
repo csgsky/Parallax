@@ -1,0 +1,18 @@
+<com.aidl.custom.veiw.SlidingMenu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/slideMenu"
+    android:background="@mipmap/bg">
+    <!-- 菜单界面的布局-->
+        <include layout="@layout/layout_menu" />
+    <!-- 主界面的布局-->
+        <include layout="@layout/layout_main"/>
+ </com.aidl.custom.veiw.SlidingMenu>
+
+
+
+
+
+
+

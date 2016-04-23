@@ -1,0 +1,10 @@
+<com.aidl.slidingdelete.View.SlideDelete
+    android:id="@+id/SlideDelete"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+>
+    <include layout="@layout/layout_content"/>
+    <include layout="@layout/layout_delete"/>
+
+</com.aidl.slidingdelete.View.SlideDelete>
